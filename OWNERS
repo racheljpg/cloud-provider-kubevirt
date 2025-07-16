@@ -9,4 +9,4 @@ approvers:
   - rhrazdil
   - qinqon
 
-component: "Cloud Compute / Cloud Controller Manager"
+component: "Cloud Compute / KubeVirt Provider"
